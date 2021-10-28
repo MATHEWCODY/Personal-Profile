@@ -1,0 +1,23 @@
+.heading{
+	color: black;
+	background-color: #8800b5;
+}
+	
+body{
+	color: black;
+	background-color: #b5bbff;
+	padding: 100px;
+}
+
+table, td{
+  border: 3px solid black;
+}
+
+.image{
+	width: 300px;
+	height: 300px; 
+}
+
+.sm{
+	width: 2%;
+	height: 2%; 
